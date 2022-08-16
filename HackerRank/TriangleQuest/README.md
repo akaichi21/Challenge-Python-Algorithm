@@ -31,9 +31,11 @@ A single line containing integer, N.
 Print N-1 lines as explained above.
 
 **Sample Input**
+
 5
 
 **Sample Output**
+
 1
 
 22
