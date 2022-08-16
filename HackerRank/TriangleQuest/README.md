@@ -10,7 +10,7 @@ You are given a positive integer N. Print a numerical triangle of height N-1 lik
 
 55555
 
-......
+. . . . . .
 ------------------------------------------------------------------------------------------------
 Can you do it using only arithmetic operations, a single for loop and print statement?
 
