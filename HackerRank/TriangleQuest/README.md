@@ -44,3 +44,11 @@ Print N-1 lines as explained above.
 
 4444
 
+**Explain Code**
+
+If you use 10 ^ i with i from 1 to 9 then we get results like 10, 100, 1000 and so on. 
+We'll take the results from that square, divide and round it by 9 to get results like 1, 11, 111 and so on. 
+We will then multiply by the original i to get a triangle quest.
+
+Pure math: ((10**i//9)*i)
+
